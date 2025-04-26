@@ -3,6 +3,8 @@
 
 Aplikasi Android Pomodoro dengan desain vibrant dan minimalis. Dibuat menggunakan Java dan XML.
 
+![Tampilan Aplikasi](IMG_20250425_204743.jpg)
+
 ## Fitur
 
 - Fokus 25 menit
